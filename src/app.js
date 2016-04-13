@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Name from './name.vue'
 
 new Vue({
-    el: 'body',
+    el: '#app',
     components: {
         Name
     },
